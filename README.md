@@ -9,7 +9,7 @@ I'm MD Ripon Islam, Fullstack developer from Nilphamari, Bangladesh.
 - Full Stack Developer at [Arnifi](http://www.arnifi.com) (current)
 - Frontend Developer at [C-Sunshine](https://www.c-sunshine.com)
 - Backend Developer (Intern) at [Mabias](http://www.mabias.one) 
-- Full stack developer at A2series
+- Full stack developer (Intern) at A2series
 
 ### 🖥 Technologies
 
